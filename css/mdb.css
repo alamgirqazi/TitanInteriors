@@ -1,6 +1,6 @@
 /*!
  * Material Design for Bootstrap 4
- * Version: MDB FREE 4.1.0 
+ * Version: MDB FREE 4.1.0
  *
  *
  * Copyright: Material Design for Bootstrap
@@ -2604,7 +2604,6 @@
 .card,
 .list-group,
 .popover,
-.navbar,
 .dropdown-menu,
 .label, .pagination .active .page-link, .btn, .pager li a {
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
@@ -6357,11 +6356,11 @@ p.lead {
 
 /*!
  * Waves v0.7.5
- * http://fian.my.id/Waves 
- * 
- * Copyright 2014-2016 Alfiana E. Sibuea and other contributors 
- * Released under the MIT license 
- * https://github.com/fians/Waves/blob/master/LICENSE 
+ * http://fian.my.id/Waves
+ *
+ * Copyright 2014-2016 Alfiana E. Sibuea and other contributors
+ * Released under the MIT license
+ * https://github.com/fians/Waves/blob/master/LICENSE
  */
 .waves-effect {
   position: relative;
